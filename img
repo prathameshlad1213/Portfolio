@@ -1,0 +1,12 @@
+<script>start("/Users/prathamesh/Downloads/portfolio-responsive-complete-main/assets/img/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("about.jpg","about.jpg",0,36810,"35.9 kB",1704097404,"01/01/2024, 13:53:24");</script>
+<script>addRow("perfil.png.jpeg","perfil.png.jpeg",0,61193,"59.8 kB",1745919329,"29/04/2025, 15:05:29");</script>
+<script>addRow("prefile.jpeg","prefile.jpeg",0,517603,"505 kB",1745919719,"29/04/2025, 15:11:59");</script>
+<script>addRow("profile.jpeg","profile.jpeg",0,835702,"816 kB",1745919839,"29/04/2025, 15:13:59");</script>
+<script>addRow("work1.jpg","work1.jpg",0,26470,"25.8 kB",1704097404,"01/01/2024, 13:53:24");</script>
+<script>addRow("work2.jpg","work2.jpg",0,20346,"19.9 kB",1704097404,"01/01/2024, 13:53:24");</script>
+<script>addRow("work3.jpg","work3.jpg",0,19804,"19.3 kB",1704097404,"01/01/2024, 13:53:24");</script>
+<script>addRow("work4.jpg","work4.jpg",0,17884,"17.5 kB",1704097404,"01/01/2024, 13:53:24");</script>
+<script>addRow("work5.jpg","work5.jpg",0,21171,"20.7 kB",1704097404,"01/01/2024, 13:53:24");</script>
+<script>addRow("work6.jpg","work6.jpg",0,17868,"17.4 kB",1704097404,"01/01/2024, 13:53:24");</script>
